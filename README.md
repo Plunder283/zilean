@@ -1,6 +1,7 @@
 # Installation :
 ## Dependency :
-Bun : https://bun.sh/ \n
+Bun : https://bun.sh/
+
 Nodejs : https://nodejs.org/fr
 ## Setup : 
 clone the current repo
