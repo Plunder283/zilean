@@ -1,7 +1,8 @@
-# Tauri + Vanilla
-
-This template should help get you started developing with Tauri in vanilla HTML, CSS and Javascript.
-
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+# Installation :
+## Dependency :
+Bun : https://bun.sh/
+Nodejs : https://nodejs.org/fr
+## Setup : 
+clone the current repo
+run `npm install tauri`
+run `bun run tauri dev` or `cd src-tauri && cargo run`
